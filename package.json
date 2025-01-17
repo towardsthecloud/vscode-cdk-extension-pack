@@ -30,6 +30,16 @@
   ],
   "badges": [
     {
+      "url": "https://img.shields.io/visual-studio-marketplace/v/dannysteenman.aws-cdk-extension-pack",
+      "href": "https://marketplace.visualstudio.com/items?itemName=dannysteenman.aws-cdk-extension-pack",
+      "description": "Version"
+    },
+    {
+      "url": "https://img.shields.io/visual-studio-marketplace/i/dannysteenman.aws-cdk-extension-pack",
+      "href": "https://marketplace.visualstudio.com/items?itemName=dannysteenman.aws-cdk-extension-pack",
+      "description": "Installs"
+    },
+    {
       "url": "https://img.shields.io/visual-studio-marketplace/stars/dannysteenman.aws-cdk-extension-pack",
       "href": "https://marketplace.visualstudio.com/items?itemName=dannysteenman.aws-cdk-extension-pack",
       "description": "Rating"
