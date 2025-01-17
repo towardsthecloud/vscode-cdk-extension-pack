@@ -6,6 +6,7 @@
   "publisher": "dannysteenman",
   "icon": "images/cdk-extension-pack-icon.png",
   "homepage": "https://towardsthecloud.com",
+  "license": "Apache-2.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/dannysteenman/vscode-cdk-extension-pack.git"
