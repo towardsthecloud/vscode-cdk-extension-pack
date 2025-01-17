@@ -3,12 +3,22 @@
   "displayName": "AWS CDK Extension Pack",
   "description": "Collection of extensions focused on AWS CDK development",
   "version": "0.3.0",
+  "publisher": "dannysteenman",
+  "icon": "images/cdk-extension-pack-icon.png",
+  "homepage": "https://towardsthecloud.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dannysteenman/vscode-cdk-extension-pack.git"
+  },
   "engines": {
     "vscode": "^1.96.0"
   },
-  "categories": [
-    "Extension Packs"
-  ],
+  "galleryBanner": {
+    "color": "#2B2C33",
+    "theme": "dark"
+  },
+  "categories": ["Extension Packs"],
+  "keywords": ["aws", "cdk", "construct", "typescript", "python"],
   "extensionPack": [
     "amazonwebservices.aws-toolkit-vscode",
     "biomejs.biome",
