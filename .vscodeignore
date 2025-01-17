@@ -1,4 +1,7 @@
-.vscode/**
-.vscode-test/**
+.gitchangelog.rc
+.github/**
 .gitignore
-vsc-extension-quickstart.md
+.pytest_cache/**
+.venv/**
+.vscode-test/**
+.vscode/**
