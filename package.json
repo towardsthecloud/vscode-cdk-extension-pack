@@ -2,7 +2,7 @@
   "name": "aws-cdk-extension-pack",
   "displayName": "AWS CDK Extension Pack",
   "description": "Collection of extensions focused on AWS CDK development",
-  "version": "0.4.0",
+  "version": "1.0.0",
   "publisher": "dannysteenman",
   "icon": "images/cdk-extension-pack-icon.png",
   "homepage": "https://towardsthecloud.com",
@@ -26,6 +26,13 @@
     "construct",
     "typescript",
     "python"
+  ],
+  "badges": [
+    {
+      "url": "https://img.shields.io/visual-studio-marketplace/stars/dannysteenman.aws-cdk-extension-pack",
+      "href": "https://marketplace.visualstudio.com/items?itemName=dannysteenman.aws-cdk-extension-pack",
+      "description": "Rating"
+    }
   ],
   "extensionPack": [
     "amazonwebservices.aws-toolkit-vscode",
