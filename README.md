@@ -42,12 +42,13 @@ This extension pack includes the following VS Code extensions:
 3. **Ruff**: An extremely fast Python linter and code formatter
 4. **CDK Snippets**: Code snippets for AWS CDK development
 5. **AWS IAM Actions Snippets**: Adds autocomplete and snippets for all AWS IAM policy actions
-6. **Draw.io Integration**: Integrates Draw.io diagrams into VS Code
-7. **Docker**: Makes it easy to create, manage, and debug containerized applications
-8. **Python**: IntelliSense, linting, debugging, and more for Python
-9. **Pylance**: Fast, feature-rich language support for Python
-10. **IntelliCode API Usage Examples**: AI-assisted code examples for API usage
-11. **IntelliCode**: AI-assisted development features
+6. **AWS IAM Service Principal Snippets**: Autocompletion for AWS service principals.
+7. **Draw.io Integration**: Integrates Draw.io diagrams into VS Code
+8. **Docker**: Makes it easy to create, manage, and debug containerized applications
+9. **Python**: IntelliSense, linting, debugging, and more for Python
+10. **Pylance**: Fast, feature-rich language support for Python
+11. **IntelliCode API Usage Examples**: AI-assisted code examples for API usage
+12. **IntelliCode**: AI-assisted development features
 
 ## Installation
 

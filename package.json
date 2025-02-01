@@ -51,6 +51,7 @@
     "charliermarsh.ruff",
     "dannysteenman.cdk-snippets",
     "dannysteenman.iam-actions-snippets",
+    "dannysteenman.iam-service-principal-snippets",
     "hediet.vscode-drawio",
     "ms-azuretools.vscode-docker",
     "ms-python.python",
