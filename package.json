@@ -48,6 +48,7 @@
   "extensionPack": [
     "amazonwebservices.aws-toolkit-vscode",
     "biomejs.biome",
+    "boto3typed.boto3-ide",
     "charliermarsh.ruff",
     "dannysteenman.cdk-snippets",
     "dannysteenman.iam-actions-snippets",

@@ -62,16 +62,17 @@ This extension pack includes the following VS Code extensions:
 
 1. **AWS Toolkit for Visual Studio Code**: Provides support for developing AWS applications
 2. **Biome**: A performant linter, formatter, and more for JavaScript, TypeScript, and JSON
-3. **Ruff**: An extremely fast Python linter and code formatter
-4. **CDK Snippets**: Code snippets for AWS CDK development
-5. **AWS IAM Actions Snippets**: Adds autocomplete and snippets for all AWS IAM policy actions
-6. **AWS IAM Service Principal Snippets**: Autocompletion for AWS service principals.
-7. **Draw.io Integration**: Integrates Draw.io diagrams into VS Code
-8. **Docker**: Makes it easy to create, manage, and debug containerized applications
-9. **Python**: IntelliSense, linting, debugging, and more for Python
-10. **Pylance**: Fast, feature-rich language support for Python
-11. **IntelliCode API Usage Examples**: AI-assisted code examples for API usage
-12. **IntelliCode**: AI-assisted development features
+3. **Boto3 IDE**: Provides intelligent code completion, type checking, and documentation for AWS boto3 SDK
+4. **Ruff**: An extremely fast Python linter and code formatter
+5. **CDK Snippets**: Code snippets for AWS CDK development
+6. **AWS IAM Actions Snippets**: Adds autocomplete and snippets for all AWS IAM policy actions
+7. **AWS IAM Service Principal Snippets**: Autocompletion for AWS service principals.
+8. **Draw.io Integration**: Integrates Draw.io diagrams into VS Code
+9. **Docker**: Makes it easy to create, manage, and debug containerized applications
+10. **Python**: IntelliSense, linting, debugging, and more for Python
+11. **Pylance**: Fast, feature-rich language support for Python
+12. **IntelliCode API Usage Examples**: AI-assisted code examples for API usage
+13. **IntelliCode**: AI-assisted development features
 
 ## Installation
 
