@@ -51,15 +51,16 @@ This extension pack includes the following VS Code extensions:
 2. **Biome**: A performant linter, formatter, and more for JavaScript, TypeScript, and JSON
 3. **Boto3 IDE**: Provides intelligent code completion, type checking, and documentation for AWS boto3 SDK
 4. **Ruff**: An extremely fast Python linter and code formatter
-5. **CDK Snippets**: Code snippets for AWS CDK development
-6. **AWS IAM Actions Snippets**: Adds autocomplete and snippets for all AWS IAM policy actions
-7. **AWS IAM Service Principal Snippets**: Autocompletion for AWS service principals.
-8. **Draw.io Integration**: Integrates Draw.io diagrams into VS Code
-9. **Docker**: Makes it easy to create, manage, and debug containerized applications
-10. **Python**: IntelliSense, linting, debugging, and more for Python
-11. **Pylance**: Fast, feature-rich language support for Python
-12. **IntelliCode API Usage Examples**: AI-assisted code examples for API usage
-13. **IntelliCode**: AI-assisted development features
+5. **[CDK Snippets](https://github.com/towardsthecloud/vscode-cdk-snippets)**: Code snippets for AWS CDK development
+6. **[AWS IAM Actions Snippets](https://github.com/towardsthecloud/vscode-iam-actions-snippets)**: Adds autocomplete and snippets for all AWS IAM policy actions
+7. **[AWS IAM Service Principal Snippets](https://github.com/towardsthecloud/vscode-iam-service-principal-snippets)**: Autocompletion for AWS service principals.
+8. **[AWS IAM Policy Debugger](https://github.com/towardsthecloud/vscode-iam-policy-debugger)**: Validate IAM policies, explain access requests and run saved regression scenarios. Unpublished development preview; this pack update must be released after the debugger is available in the Marketplace.
+9. **Draw.io Integration**: Integrates Draw.io diagrams into VS Code
+10. **Docker**: Makes it easy to create, manage, and debug containerized applications
+11. **Python**: IntelliSense, linting, debugging, and more for Python
+12. **Pylance**: Fast, feature-rich language support for Python
+13. **IntelliCode API Usage Examples**: AI-assisted code examples for API usage
+14. **IntelliCode**: AI-assisted development features
 
 ## Installation
 
